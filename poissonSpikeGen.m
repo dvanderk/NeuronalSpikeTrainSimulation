@@ -1,5 +1,5 @@
 function [ spikeMat, tVec ] = poissonSpikeGen( fr, tSim, nTrials )
-%POISSONSPIKEGEN Summary of this function goes here
+%POISSONSPIKEGEN 
 % Simulates a neuron spike train using poisson process
 %   fr = firing rate
 %   tSim = length of simulation
